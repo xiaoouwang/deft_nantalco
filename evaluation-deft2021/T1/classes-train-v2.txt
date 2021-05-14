@@ -1,0 +1,773 @@
+filehtml-146-cas.ann	nerveux	épileptique
+filehtml-146-cas.ann	etatsosy	légère somnolence
+filehtml-146-cas.ann	chimiques	10 fois la dose
+filehtml-24-cas.ann	etatsosy	vomissements
+filehtml-24-cas.ann	genetique	retard de croissance intra-utérin
+filehtml-24-cas.ann	femme	retard de croissance intra-utérin
+filehtml-24-cas.ann	nutritionnelles	diabète gestationnel
+filehtml-24-cas.ann	endocriniennes	diabète gestationnel
+filehtml-24-cas.ann	osteomusculaires	réaction extrapyramidale
+filehtml-24-cas.ann	nerveux	réaction extrapyramidale
+filehtml-24-cas.ann	digestif	gastrite érosive
+filehtml-29-cas.ann	tumeur	ostéosarcome du fémur distal droit
+filehtml-29-cas.ann	osteomusculaires	ostéosarcome du fémur distal droit
+filehtml-29-cas.ann	respiratoire	métastases pulmonaires
+filehtml-29-cas.ann	peau	dermatite de contact au membre supérieur gauche
+filehtml-29-cas.ann	etatsosy	érythème
+filehtml-29-cas.ann	chimiques	réaction allergique pour les différentes doses de méthotrexate
+filehtml-29-cas.ann	immunitaire	réaction urticarienne
+filepdf-100-cas.ann	homme	symptomatologie mictionnelle sévère, irritative et obstructive
+filepdf-100-cas.ann	genetique	ectopie testiculaire
+filepdf-100-cas.ann	tumeur	cystadénome de prostate
+filepdf-101-cas.ann	peau	lésion verruqueuse
+filepdf-101-cas.ann	homme	phimosis
+filepdf-101-cas.ann	virales	lésions condylomateuses du fourreau
+filepdf-101-cas.ann	tumeur	lésion tumorale volumineuse, indolore, exophytique, bourgeonnante, irrégulière du pénis latéro-postérieure supérieure
+filepdf-106-cas.ann	etatsosy	douleurs épisodiques localisées au niveau de l’hypochondre droit
+filepdf-106-cas.ann	tumeur	tumeur de la loge surrénalienne droite
+filepdf-106-cas.ann	femme	tumeur de la loge surrénalienne droite
+filepdf-106-cas.ann	infections	lésions tuberculeuses caséofolliculaires
+filepdf-110-1-cas.ann	etatsosy	douleurs lombaires gauches
+filepdf-110-1-cas.ann	infections	pyurie
+filepdf-110-1-cas.ann	homme	pyurie
+filepdf-110-1-cas.ann	tumeur	tumeur pyélique
+filepdf-110-1-cas.ann	virales	carcinome papillaire des voies excrétrices de bas grade
+filepdf-110-1-cas.ann	peau	inflexion épidermoïde
+filepdf-116-cas.ann	etatsosy	hernie inguino-scrotale droite
+filepdf-116-cas.ann	homme	testicule gauche est non palpable
+filepdf-116-cas.ann	genetique	testicule gauche est non palpable
+filepdf-116-cas.ann	endocriniennes	testicule gauche est non palpable
+filepdf-119-cas.ann	femme	hématurie macroscopique isolée
+filepdf-119-cas.ann	etatsosy	hématurie macroscopique isolée
+filepdf-119-cas.ann	tumeur	adénocarcinome à cellules claires
+filepdf-119-cas.ann	hemopathies	adénopathies
+filepdf-122-cas.ann	homme	phimosis serré
+filepdf-122-cas.ann	tumeur	nodule
+filepdf-124-cas.ann	femme	tumeur rénale gauche
+filepdf-124-cas.ann	tumeur	tumeur rénale gauche
+filepdf-124-cas.ann	digestif	emboles vasculaires microscopiques
+filepdf-124-cas.ann	cardiovasculaires	emboles vasculaires microscopiques
+filepdf-124-cas.ann	peau	nodule mammaire siégeant à l’union des quadrants externes du sein droit
+filepdf-124-cas.ann	etatsosy	nécrose centrale
+filepdf-124-cas.ann	endocriniennes	métastase de la queue du pancréas
+filepdf-125-cas.ann	etatsosy	douleurs abdominales épigastriques
+filepdf-125-cas.ann	tumeur	formation tumorale
+filepdf-125-cas.ann	parasitaires	hydatidose
+filepdf-125-cas.ann	nerveux	algodystrophie de la cheville droite
+filepdf-125-cas.ann	digestif	nombreux gaz coliques
+filepdf-125-cas.ann	homme	rein en fer à cheval
+filepdf-125-cas.ann	genetique	rein en fer à cheval
+filepdf-125-cas.ann	osteomusculaires	algodystrophie de la cheville droite
+filepdf-126-cas.ann	hemopathies	adénopathies
+filepdf-126-cas.ann	etatsosy	asthénie majeure
+filepdf-126-cas.ann	tumeur	tumeur
+filepdf-126-cas.ann	endocriniennes	insuffisance surrénalienne aiguë
+filepdf-126-cas.ann	immunitaire	lymphome malin non Hodgkinien de haut grade de malignité
+filepdf-126-cas.ann	nutritionnelles	légère hyponatrémie à 134 meq/l
+filepdf-128-cas.ann	etatsosy	douleurs lombaires droites
+filepdf-128-cas.ann	tumeur	tumeur
+filepdf-128-cas.ann	peau	tumeur encapsulée, bien limitée de 5 cm de grand diamètre incluse dans le muscle psoas
+filepdf-130-cas.ann	homme	insuffisance rénale chronique
+filepdf-130-cas.ann	tumeur	tumeur vésicale unique
+filepdf-130-cas.ann	chimiques	tabagique ancien
+filepdf-130-cas.ann	etatsosy	hématurie totale
+filepdf-130-cas.ann	nutritionnelles	obésité importante
+filepdf-133-cas.ann	peau	sclérodermie systémique d’installation progressive
+filepdf-133-cas.ann	cardiovasculaires	syndrome de Raynaud
+filepdf-133-cas.ann	osteomusculaires	arthralgies des coudes et des genoux
+filepdf-133-cas.ann	etatsosy	arthralgies des coudes et des genoux
+filepdf-133-cas.ann	nerveux	syndrome du canal carpien bilatéral
+filepdf-133-cas.ann	blessures	syndrome du canal carpien bilatéral
+filepdf-133-cas.ann	stomatognathique	syndrome sec buccal
+filepdf-133-cas.ann	femme	hématurie totale abondante avec formation de caillots
+filepdf-133-cas.ann	digestif	lésions vasculaires capillaires
+filepdf-133-cas.ann	hemopathies	anémie aiguë
+filepdf-133-cas.ann	immunitaire	syndrome sec buccal
+filepdf-133-cas.ann	respiratoire	atteinte cardiaque, pulmonaire et digestive
+filepdf-133-cas.ann	infections	zones intensément inflammatoires
+filepdf-134-cas.ann	femme	cystocèle du 3ème degré
+filepdf-134-cas.ann	etatsosy	cystocèle du 3ème degré
+filepdf-134-cas.ann	digestif	rectocèle du 1er degré
+filepdf-140-2-cas.ann	hemopathies	adénopathies infracentimétriques du pédicule rénal
+filepdf-140-2-cas.ann	etatsosy	douleur lombaire gauche
+filepdf-140-2-cas.ann	tumeur	tumeur rénale
+filepdf-140-2-cas.ann	cardiovasculaires	hypertension artérielle
+filepdf-140-2-cas.ann	femme	formation kystique du rein gauche
+filepdf-142-cas.ann	etatsosy	calcul coralliforme gauche
+filepdf-142-cas.ann	infections	abcès récidivant
+filepdf-142-cas.ann	nerveux	ï
+filepdf-142-cas.ann	femme	rétention urinaire
+filepdf-142-cas.ann	blessures	compression médullaire
+filepdf-142-cas.ann	peau	phlegmon péri-rénal
+filepdf-144-2-cas.ann	immunitaire	myélome
+filepdf-144-2-cas.ann	hemopathies	myélome
+filepdf-144-2-cas.ann	tumeur	myélome
+filepdf-144-2-cas.ann	peau	polyarthrite rhumatoïde
+filepdf-144-2-cas.ann	osteomusculaires	polyarthrite rhumatoïde
+filepdf-144-2-cas.ann	homme	épisode de rétention aiguë d’urine
+filepdf-144-2-cas.ann	nutritionnelles	amylose rectale et rénale
+filepdf-144-2-cas.ann	digestif	amylose rectale et rénale
+filepdf-147-cas.ann	etatsosy	douleur pubienne
+filepdf-147-cas.ann	homme	douleur pubienne irradiant au pénis
+filepdf-147-cas.ann	blessures	blessure d’un orteil
+filepdf-147-cas.ann	peau	induration douloureuse au dessus de la racine du pénis
+filepdf-147-cas.ann	infections	Streptocoque A
+filepdf-150-cas.ann	etatsosy	ascite modérée
+filepdf-150-cas.ann	digestif	cirrhose d’origine éthylique décompensée
+filepdf-150-cas.ann	chimiques	cirrhose d’origine éthylique décompensée
+filepdf-150-cas.ann	genetique	hernie ombilicale
+filepdf-150-cas.ann	femme	fuites urinaires
+filepdf-150-cas.ann	virales	végétations sur le fond vaginal
+filepdf-150-cas.ann	peau	végétations sur le fond vaginal
+filepdf-150-cas.ann	hemopathies	temps de prothrombine à 58%
+filepdf-157-cas.ann	digestif	gastrite
+filepdf-157-cas.ann	homme	torsion testiculaire
+filepdf-157-cas.ann	etatsosy	lombalgies
+filepdf-162-cas.ann	genetique	hypospadias antérieur
+filepdf-162-cas.ann	homme	hypospadias antérieur
+filepdf-162-cas.ann	etatsosy	fistule urétro-cutanée
+filepdf-17-cas.ann	tumeur	cancer de l'urèthre étendu au trigone vésical
+filepdf-17-cas.ann	etatsosy	douleurs à la pénétration
+filepdf-17-cas.ann	femme	prolapsus de néo-vagin
+filepdf-17-cas.ann	hemopathies	adénopathie ilio-obturatrice gauche était tumorale
+filepdf-173-cas.ann	respiratoire	épistaxis
+filepdf-173-cas.ann	ORL	épistaxis
+filepdf-173-cas.ann	etatsosy	épistaxis
+filepdf-173-cas.ann	hemopathies	purpura bilatéral des membres inférieurs
+filepdf-173-cas.ann	tumeur	rhabdomyosarcome alvéolaire
+filepdf-173-cas.ann	homme	tumeur testiculaire gauche
+filepdf-174-cas.ann	homme	tuméfaction très dure et d’apparition progressive du testicule gauche
+filepdf-174-cas.ann	infections	infection à Chlamydiae trachomatis
+filepdf-176-cas.ann	cardiovasculaires	hypertension artérielle
+filepdf-176-cas.ann	etatsosy	angor
+filepdf-176-cas.ann	endocriniennes	goitre euthyroïdien
+filepdf-176-cas.ann	hemopathies	anémie normochrome normocytaire
+filepdf-176-cas.ann	tumeur	tumeur
+filepdf-176-cas.ann	femme	tumeur fibreuse solitaire du rein
+filepdf-187-cas.ann	homme	brûlures mictionnelles
+filepdf-187-cas.ann	infections	pyurie itératives
+filepdf-187-cas.ann	etatsosy	diverticule urèthral
+filepdf-19-1-cas.ann	homme	rétention aigue d'urine
+filepdf-19-1-cas.ann	blessures	fracture de la verge
+filepdf-19-1-cas.ann	etatsosy	douleur vive
+filepdf-190-cas.ann	etatsosy	nausées
+filepdf-190-cas.ann	femme	hématurie microscopique
+filepdf-190-cas.ann	tumeur	angiomyolipome rénal
+filepdf-190-cas.ann	blessures	rupture de veines
+filepdf-193-cas.ann	cardiovasculaires	hypertension artérielle
+filepdf-193-cas.ann	infections	infection urinaire et vaginale
+filepdf-193-cas.ann	etatsosy	hématurie microscopique
+filepdf-193-cas.ann	femme	hématurie
+filepdf-193-cas.ann	virales	hépatite A
+filepdf-193-cas.ann	digestif	hépatite A
+filepdf-193-cas.ann	immunitaire	multiples allergies
+filepdf-193-cas.ann	chimiques	fumait
+filepdf-193-cas.ann	nutritionnelles	amyloïdose primaire
+filepdf-196-cas.ann	etatsosy	hématurie massive
+filepdf-196-cas.ann	infections	infection urinaire (Echerichia. Coli)
+filepdf-196-cas.ann	homme	hématurie massive
+filepdf-196-cas.ann	tumeur	tumeur
+filepdf-196-cas.ann	hemopathies	anémie
+filepdf-198-cas.ann	blessures	plaie scrotale hémorragique
+filepdf-198-cas.ann	etatsosy	plaie scrotale hémorragique
+filepdf-198-cas.ann	homme	volumineuse hématocèle droite
+filepdf-2-3-cas.ann	tumeur	cancer prostatique
+filepdf-2-3-cas.ann	homme	cancer prostatique
+filepdf-2-3-cas.ann	endocriniennes	métastases ganglionnaires
+filepdf-2-3-cas.ann	etatsosy	fièvre
+filepdf-200-cas.ann	etatsosy	douleurs pelviennes
+filepdf-200-cas.ann	femme	hématurie terminale caillotante
+filepdf-200-cas.ann	digestif	lithiase vésicale
+filepdf-21-cas.ann	etatsosy	douleur de l’hypochondre gauche
+filepdf-21-cas.ann	tumeur	tumeur surrénalienne sphérique de la taille d’une mandarine
+filepdf-21-cas.ann	endocriniennes	tumeur surrénalienne sphérique
+filepdf-211-cas.ann	cardiovasculaires	hypertension artérielle
+filepdf-211-cas.ann	etatsosy	hypertension artérielle
+filepdf-211-cas.ann	femme	hématurie microscopique
+filepdf-211-cas.ann	tumeur	tumeur
+filepdf-215-cas.ann	etatsosy	douleurs de la fosse iliaque droite et du flanc droit
+filepdf-215-cas.ann	parasitaires	kyste hydatique rétropéritonéal
+filepdf-215-cas.ann	digestif	lymphangiome kystique rétro-péritonéal
+filepdf-215-cas.ann	tumeur	lymphangiome kystique rétro-péritonéal
+filepdf-216-cas.ann	etatsosy	dysurie
+filepdf-216-cas.ann	homme	pollakiurie
+filepdf-216-cas.ann	nerveux	altération de l’état général
+filepdf-216-cas.ann	hemopathies	hyperleucocytose
+filepdf-216-cas.ann	respiratoire	hémoptysies de moyenne abondance
+filepdf-216-cas.ann	tumeur	tumeur qui est d’allure maligne
+filepdf-226-cas.ann	etatsosy	dysurie
+filepdf-226-cas.ann	femme	dysurie
+filepdf-226-cas.ann	tumeur	tumeur
+filepdf-227-cas.ann	homme	hématocèle modérée
+filepdf-227-cas.ann	osteomusculaires	hémarthrose du genou gauche
+filepdf-227-cas.ann	etatsosy	hémarthrose du genou gauche
+filepdf-227-cas.ann	blessures	disjonction pubienne stade II
+filepdf-227-cas.ann	digestif	plaie iléale latérale
+filepdf-233-cas.ann	etatsosy	douleurs lombaires droites isolées
+filepdf-233-cas.ann	tumeur	schwannome remanié sans caractère de malignité
+filepdf-233-cas.ann	femme	schwannome remanié sans caractère de malignité
+filepdf-242-2-cas.ann	etatsosy	obèse
+filepdf-242-2-cas.ann	endocriniennes	diabétique de type 2
+filepdf-242-2-cas.ann	nutritionnelles	diabétique de type 2
+filepdf-242-2-cas.ann	tumeur	image kystique multiloculaire
+filepdf-242-2-cas.ann	cardiovasculaires	hypertendue
+filepdf-242-2-cas.ann	digestif	coliques hépatiques récidivantes sur vésicule lithiasique
+filepdf-247-cas.ann	etatsosy	hernie inguinale gauche
+filepdf-247-cas.ann	tumeur	tumeur blanche nacrée, hétérogène
+filepdf-247-cas.ann	homme	hydrocèle droite
+filepdf-247-cas.ann	hemopathies	adénopathie médiastinale supra centimétrique
+filepdf-247-cas.ann	peau	induration du testicule
+filepdf-247-cas.ann	digestif	lésions hépatiques
+filepdf-252-cas.ann	etatsosy	douleurs à l'ébranlement de la fosse lombaire droite
+filepdf-252-cas.ann	femme	structure kystique anéchogène de 28 mm au niveau du rein gauche
+filepdf-252-cas.ann	infections	diverticule caliciel (kyste pyélogénique)
+filepdf-252-cas.ann	tumeur	kyste pyélogénique
+filepdf-263-3-cas.ann	chimiques	tabagisme
+filepdf-263-3-cas.ann	homme	hématurie macroscopique
+filepdf-263-3-cas.ann	etatsosy	hématurie macroscopique
+filepdf-263-3-cas.ann	hemopathies	petites adénopathies le long de la veine cave
+filepdf-263-3-cas.ann	tumeur	tumeur urothéliale
+filepdf-265-1-cas.ann	infections	UB de la cuisse gauche
+filepdf-265-1-cas.ann	peau	UB de la cuisse gauche
+filepdf-265-1-cas.ann	etatsosy	oedème indolore du scrotum
+filepdf-266-cas.ann	homme	varicocèle droite
+filepdf-266-cas.ann	tumeur	tumeurs fibreuses
+filepdf-266-cas.ann	cardiovasculaires	varicocèle droite
+filepdf-266-cas.ann	infections	éléments inflammatoires lymphoplasmocytaires et polynucléares neutrophiles et éosinophiles
+filepdf-267-1-cas.ann	etatsosy	oedème
+filepdf-267-1-cas.ann	homme	déviation du pénis
+filepdf-269-1-cas.ann	homme	troubles mictionnels
+filepdf-269-1-cas.ann	tumeur	petit adénome prostatique
+filepdf-269-1-cas.ann	etatsosy	troubles mictionnels
+filepdf-27-3-cas.ann	blessures	lésion testiculaire dure et indolore
+filepdf-27-3-cas.ann	tumeur	tumeur intra-testiculaire
+filepdf-27-3-cas.ann	homme	tumeur intra-testiculaire
+filepdf-277-cas.ann	nerveux	altération de l'état général
+filepdf-277-cas.ann	etatsosy	amaigrissement
+filepdf-277-cas.ann	tumeur	tumeur
+filepdf-283-cas.ann	tumeur	cancer de prostate
+filepdf-283-cas.ann	homme	rétention urinaire
+filepdf-283-cas.ann	infections	infections urinaires à colibacille
+filepdf-285-cas.ann	etatsosy	ulcération scrotale
+filepdf-285-cas.ann	tumeur	tumeur
+filepdf-285-cas.ann	homme	léiomyosarcome du cordon spermatique
+filepdf-291-cas.ann	tumeur	carcinome in situ
+filepdf-291-cas.ann	femme	pyélonéphrites aiguës non-obstructives
+filepdf-291-cas.ann	etatsosy	calcul
+filepdf-292-2-cas.ann	nerveux	rupture d'anévrysme cérébral
+filepdf-292-2-cas.ann	cardiovasculaires	rupture d'anévrysme cérébral
+filepdf-292-2-cas.ann	etatsosy	paraplégie séquellaire
+filepdf-292-2-cas.ann	homme	sténoses urétrales itératives
+filepdf-292-2-cas.ann	tumeur	carcinome urothélial papillaire de haut grade
+filepdf-292-2-cas.ann	digestif	emboles vasculaires
+filepdf-295-1-cas.ann	tumeur	rhabdomyosarcome de prostate
+filepdf-295-1-cas.ann	homme	rhabdomyosarcome de prostate
+filepdf-295-1-cas.ann	etatsosy	nécrose
+filepdf-295-1-cas.ann	osteomusculaires	ostéolyse du sacrum
+filepdf-298-cas.ann	etatsosy	douleur pénoscrotale
+filepdf-298-cas.ann	peau	ulcération cutanée
+filepdf-32-2-cas.ann	endocriniennes	diabétique
+filepdf-32-2-cas.ann	nutritionnelles	diabétique
+filepdf-32-2-cas.ann	immunitaire	diabétique
+filepdf-32-2-cas.ann	femme	uréthrorragie intermittente
+filepdf-32-2-cas.ann	etatsosy	douleurs vulvaires
+filepdf-32-2-cas.ann	tumeur	tumeur urétro-vulvaire de la paroi antérieure du vagin
+filepdf-389-cas.ann	blessures	entailles profondes au poignet
+filepdf-393-2-cas.ann	etatsosy	syndrome asphyxique
+filepdf-393-2-cas.ann	blessures	syndrome asphyxique
+filepdf-393-2-cas.ann	chimiques	poly-intoxication médicamenteuse
+filepdf-393-2-cas.ann	nerveux	coma calme et hypotonique
+filepdf-393-2-cas.ann	respiratoire	dépression respiratoire centrale
+filepdf-395-cas.ann	digestif	hépatite aiguë
+filepdf-395-cas.ann	chimiques	éthylisme ancien
+filepdf-395-cas.ann	hemopathies	thrombopénie
+filepdf-395-cas.ann	etatsosy	hépato splénomégalie
+filepdf-395-cas.ann	virales	hépatite aiguë
+filepdf-395-cas.ann	nutritionnelles	paracétamolémie
+filepdf-40-2-cas.ann	tumeur	adénocarcinome mucineux
+filepdf-40-2-cas.ann	hemopathies	adénopathies rétropéritonéales
+filepdf-40-2-cas.ann	etatsosy	douleurs abdominales
+filepdf-40-2-cas.ann	homme	tumeur du testicule droit
+filepdf-40-2-cas.ann	cardiovasculaires	claudication intermittente
+filepdf-40-2-cas.ann	respiratoire	multiples localisations pulmonaires bilatérales
+filepdf-411-cas.ann	etatsosy	agitation d’aggravation progressive
+filepdf-411-cas.ann	nerveux	hallucination
+filepdf-411-cas.ann	cardiovasculaires	tachycarde à 102 battements par minute
+filepdf-417-cas.ann	chimiques	plombémie élevée
+filepdf-425-cas.ann	blessures	syndrome asphyxique
+filepdf-425-cas.ann	etatsosy	cyanose
+filepdf-43-1-cas.ann	homme	rétention aiguë d’urine
+filepdf-43-1-cas.ann	etatsosy	amaigrissement
+filepdf-43-1-cas.ann	nutritionnelles	cachectique
+filepdf-43-1-cas.ann	hemopathies	anémie hypochrome microcytaire
+filepdf-43-1-cas.ann	tumeur	volumineuse tumeur prostatique refoulant la vessie
+filepdf-43-1-cas.ann	nerveux	altération de l’état général
+filepdf-43-1-cas.ann	infections	infection urinaire à pseudomonas aeruginosa multi-résistant
+filepdf-437-cas.ann	etatsosy	hyperthermie persistante
+filepdf-437-cas.ann	nerveux	troubles moteurs des quatre membres
+filepdf-437-cas.ann	chimiques	halopéridol à la concentration de 14 µg/L
+filepdf-438-cas.ann	chimiques	traces de cocaïne non métabolisée
+filepdf-44-cas.ann	etatsosy	ectasie aortique
+filepdf-44-cas.ann	tumeur	tumeur hétérogène
+filepdf-44-cas.ann	femme	Dialysée
+filepdf-44-cas.ann	cardiovasculaires	valvulopathie
+filepdf-45-cas.ann	etatsosy	douleur inguino-scrotale gauche
+filepdf-45-cas.ann	cardiovasculaires	thrombose partielle de la varicocèle
+filepdf-45-cas.ann	homme	ectopie testiculaire droite
+filepdf-45-cas.ann	genetique	ectopie testiculaire droite
+filepdf-47-cas.ann	tumeur	phéochromocytome bénin de forme kystique
+filepdf-47-cas.ann	parasitaires	kyste hydatique de la surrénale
+filepdf-47-cas.ann	endocriniennes	masse kystique de la surrénale gauche
+filepdf-47-cas.ann	cardiovasculaires	pic hypertensif de 24 mmHg de systolique
+filepdf-472-cas.ann	blessures	fractures multiples (fémur et humérus droits, radius-cubitus gauches)
+filepdf-472-cas.ann	chimiques	imprégnation au chrome à 20,2 µg/g de créatinine
+filepdf-481-2-cas.ann	nerveux	coma inexpliqué
+filepdf-481-2-cas.ann	etatsosy	coma inexpliqué
+filepdf-481-2-cas.ann	chimiques	ingéré au moins 20 comprimés de Séresta 50 mg
+filepdf-484-cas.ann	etatsosy	malaise
+filepdf-484-cas.ann	respiratoire	détresse respiratoire aiguë
+filepdf-484-cas.ann	blessures	asphyxie aiguë
+filepdf-484-cas.ann	chimiques	blisters vides de Lysanxia (prazépam) et de Di-antalvic (association dextropropoxyphène et paracétamol)
+filepdf-49-cas.ann	tumeur	tumeur kystique
+filepdf-49-cas.ann	genetique	rein en fer-à-cheval
+filepdf-49-cas.ann	femme	rein en fer-à-cheval
+filepdf-49-cas.ann	endocriniennes	nature neuro-endocrine de la tumeur
+filepdf-49-cas.ann	digestif	néoplasie colique
+filepdf-492-1-cas.ann	nerveux	agitation
+filepdf-492-1-cas.ann	etatsosy	agitation
+filepdf-492-1-cas.ann	chimiques	prise accidentelle de quantité imprécise de feuilles de D. stramonium verte avec graines
+filepdf-496-1-cas.ann	etatsosy	asthénique
+filepdf-496-1-cas.ann	nerveux	insomniaque
+filepdf-496-1-cas.ann	peau	acné macrokystique de la face et des épaules
+filepdf-496-1-cas.ann	chimiques	dépendance
+filepdf-5-cas.ann	hemopathies	adénopathies inguinales bilatérales palpables et non compressives
+filepdf-5-cas.ann	tumeur	volumineuse formation tumorale de l'extrémité distale du pénis
+filepdf-5-cas.ann	etatsosy	plusieurs petites lésions noirâtres cutanées
+filepdf-5-cas.ann	homme	troubles mictionnels
+filepdf-5-cas.ann	blessures	traumatisme du pénis
+filepdf-5-cas.ann	peau	plusieurs petites lésions noirâtres cutanées
+filepdf-503-cas.ann	chimiques	intoxication par l'éthylène glycol
+filepdf-503-cas.ann	nutritionnelles	acidóse métabolique franche
+filepdf-504-cas.ann	respiratoire	œdème pulmonaire
+filepdf-509-2-cas.ann	nerveux	coma
+filepdf-509-2-cas.ann	cardiovasculaires	arrêt cardiaque
+filepdf-509-2-cas.ann	respiratoire	sécrétions bronchiques
+filepdf-509-2-cas.ann	oeil	myosis
+filepdf-509-2-cas.ann	etatsosy	hypothermie
+filepdf-509-2-cas.ann	chimiques	intoxication aux carbamates
+filepdf-509-2-cas.ann	homme	insuffisance rénale
+filepdf-509-2-cas.ann	digestif	cytolyse hépatique
+filepdf-509-2-cas.ann	nutritionnelles	hyperkaliemic
+filepdf-509-3-cas.ann	etatsosy	hypoxemie
+filepdf-509-3-cas.ann	hemopathies	hypoalbuminémie
+filepdf-509-3-cas.ann	chimiques	intoxication aiguës aux pyréthrinoïdes
+filepdf-509-3-cas.ann	nerveux	convulsions
+filepdf-513-cas.ann	chimiques	intoxication
+filepdf-517-1-cas.ann	chimiques	éthylisme
+filepdf-517-1-cas.ann	etatsosy	somnolent
+filepdf-517-1-cas.ann	homme	rétention d'urines
+filepdf-53-1-cas.ann	etatsosy	douleurs hypogastriques
+filepdf-53-1-cas.ann	tumeur	kyste de l’ouraque
+filepdf-53-1-cas.ann	homme	pollakiurie nocturne et diurne
+filepdf-533-1-cas.ann	nerveux	problèmes psychomoteurs
+filepdf-533-1-cas.ann	blessures	signes de violences
+filepdf-533-1-cas.ann	chimiques	présence de toxiques dus à l'incendie (HbCO, cyanures)
+filepdf-533-1-cas.ann	etatsosy	problèmes psychomoteurs
+filepdf-533-2-cas.ann	nerveux	malaise
+filepdf-533-2-cas.ann	etatsosy	malaise
+filepdf-533-2-cas.ann	ORL	vertiges
+filepdf-533-2-cas.ann	oeil	visions de flash colorés
+filepdf-533-2-cas.ann	chimiques	présence de LSD, de caféine et d'acide chlorogénique
+filepdf-533-5-cas.ann	etatsosy	coma hypothermique
+filepdf-533-5-cas.ann	chimiques	alcoolémie
+filepdf-533-8-cas.ann	nerveux	Quasi-amnésique
+filepdf-533-8-cas.ann	etatsosy	Quasi-amnésique
+filepdf-533-8-cas.ann	chimiques	droguée
+filepdf-534-10-cas.ann	chimiques	alcoolémie
+filepdf-536-cas.ann	nerveux	hallucinations
+filepdf-536-cas.ann	oeil	mydriase bilatérale persistante
+filepdf-536-cas.ann	etatsosy	syndrome hallucinatoire progressif
+filepdf-536-cas.ann	chimiques	intoxication par la doxylamine
+filepdf-547-1-cas.ann	homme	insuffisance rénale fonctionnelle
+filepdf-547-1-cas.ann	etatsosy	myosis serré
+filepdf-547-1-cas.ann	nerveux	coma stade II
+filepdf-547-1-cas.ann	oeil	myosis serré
+filepdf-547-1-cas.ann	hemopathies	hyperleucocytose
+filepdf-547-1-cas.ann	respiratoire	bronchite
+filepdf-547-1-cas.ann	cardiovasculaires	fréquence cardiaque de 100/min
+filepdf-547-1-cas.ann	chimiques	emballages vides de Xanax® (alprazolam) et d'un flacon de désherbant S.E.M
+filepdf-551-cas.ann	etatsosy	douleurs crâniennes
+filepdf-551-cas.ann	oeil	mydriase bilatérale aréactive
+filepdf-551-cas.ann	nerveux	hallucinations
+filepdf-551-cas.ann	respiratoire	épistaxis
+filepdf-551-cas.ann	ORL	épistaxis
+filepdf-551-cas.ann	cardiovasculaires	tachycardie régulière
+filepdf-551-cas.ann	chimiques	intoxication
+filepdf-554-2-cas.ann	chimiques	présence de toxiques dus à l'incendie (HbCO, cyanures)
+filepdf-554-2-cas.ann	etatsosy	épileptique
+filepdf-554-2-cas.ann	nerveux	problèmes psychomoteurs
+filepdf-554-2-cas.ann	blessures	signes de violences
+filepdf-554-5-cas.ann	chimiques	toxicomanie
+filepdf-554-5-cas.ann	etatsosy	congestion multiviscérale
+filepdf-57-cas.ann	digestif	maladie de Crohn iléocolique
+filepdf-57-cas.ann	infections	volumineux abcès de la fosse ischiorectale droite
+filepdf-57-cas.ann	homme	écoulement d’urines par l’anus
+filepdf-57-cas.ann	tumeur	miliaire pulmonaire carcinomateuse
+filepdf-57-cas.ann	cardiovasculaires	miliaire pulmonaire
+filepdf-57-cas.ann	peau	miliaire pulmonaire
+filepdf-59-cas.ann	etatsosy	douleurs lombaires gauches
+filepdf-59-cas.ann	femme	syndrome de la jonction pyélo-urétérale
+filepdf-6-4-cas.ann	femme	insuffisance rénale obstructive
+filepdf-6-4-cas.ann	etatsosy	prolapsus de stade III
+filepdf-6-5-cas.ann	etatsosy	prolapsus de stade II
+filepdf-6-5-cas.ann	femme	prolapsus de stade II
+filepdf-6-5-cas.ann	infections	pyurie à E. Coli
+filepdf-63-cas.ann	etatsosy	douleurs
+filepdf-63-cas.ann	femme	lésion qui est de forme ovalaire et développée dans la loge surrénalienne droite
+filepdf-63-cas.ann	homme	lésion qui est de forme ovalaire et développée dans la loge surrénalienne droite
+filepdf-630-4-cas.ann	chimiques	consommation de cannabis et de datura en décoction
+filepdf-630-8-cas.ann	chimiques	pics et spectres caractéristiques des kavalactones
+filepdf-64-cas.ann	etatsosy	colique néphrétique gauche isolée
+filepdf-64-cas.ann	tumeur	tumeur maligne du rein
+filepdf-64-cas.ann	homme	tumeur maligne du rein
+filepdf-645-cas.ann	respiratoire	régurgitation
+filepdf-645-cas.ann	digestif	régurgitation
+filepdf-645-cas.ann	chimiques	nitrendipine a pu être mise en évidence
+filepdf-66-1-cas.ann	etatsosy	hématurie massive
+filepdf-66-1-cas.ann	femme	hématurie massive
+filepdf-66-1-cas.ann	tumeur	carcinome utérin de stade IV
+filepdf-66-1-cas.ann	cardiovasculaires	fistule artério-urétérale
+filepdf-66-1-cas.ann	genetique	fistule artério-urétérale
+filepdf-66-1-cas.ann	hemopathies	aplasie médullaire
+filepdf-668-cas.ann	tumeur	adénocarcinome d’origine pulmonaire
+filepdf-668-cas.ann	etatsosy	lésions pigmentées dispersées sur tous le corps
+filepdf-668-cas.ann	peau	plusieurs lésions érythémateuses violacées douloureuses
+filepdf-68-1-cas.ann	tumeur	adénocarcinome des canaux prostatiques
+filepdf-68-1-cas.ann	etatsosy	pollakiurie diurne et nocturne
+filepdf-68-1-cas.ann	homme	majoration des troubles mictionnels
+filepdf-68-1-cas.ann	digestif	intolérance hépatique
+filepdf-681-cas.ann	etatsosy	pâleur conjonctivale
+filepdf-681-cas.ann	osteomusculaires	délabrement cutanéo-musculaire trochantéro-féssier gauche
+filepdf-681-cas.ann	peau	délabrement cutanéo-musculaire trochantéro-féssier gauche
+filepdf-681-cas.ann	blessures	large plaie trochantéro-fessière gauche
+filepdf-681-cas.ann	nerveux	déficit sensitivo-moteur
+filepdf-681-cas.ann	nutritionnelles	urines foncées
+filepdf-681-cas.ann	genetique	urines foncées
+filepdf-681-cas.ann	homme	anurie
+filepdf-681-cas.ann	cardiovasculaires	fréquence cardiaque (FC) était de 160 battements/minute
+filepdf-698-cas.ann	cardiovasculaires	hyperextabilités ventriculaires
+filepdf-698-cas.ann	etatsosy	fièvre
+filepdf-698-cas.ann	nerveux	syncope
+filepdf-698-cas.ann	nutritionnelles	hypokalièmie
+filepdf-698-cas.ann	genetique	syndrome de Brugada
+filepdf-70-cas.ann	tumeur	carcinome vésiculaire
+filepdf-70-cas.ann	etatsosy	tuméfaction cervicale
+filepdf-70-cas.ann	homme	métastase rénale
+filepdf-70-cas.ann	endocriniennes	thyroïde
+filepdf-700-cas.ann	cardiovasculaires	tachycardie large battant à 150 par minute
+filepdf-700-cas.ann	etatsosy	tachycardie
+filepdf-702-2-cas.ann	nerveux	céphalées frontales intenses
+filepdf-702-2-cas.ann	ORL	obstruction nasale bilatérale
+filepdf-702-2-cas.ann	infections	syndrome inflammatoire biologique
+filepdf-702-2-cas.ann	osteomusculaires	Pott’s Puffy tumor
+filepdf-702-2-cas.ann	etatsosy	fièvre
+filepdf-702-2-cas.ann	hemopathies	hyperleucocytose
+filepdf-702-2-cas.ann	oeil	Pott’s Puffy tumor
+filepdf-705-cas.ann	tumeur	adénocarcinome pulmonaire de stade 3A
+filepdf-705-cas.ann	respiratoire	adénocarcinome pulmonaire de stade 3A
+filepdf-705-cas.ann	immunitaire	allergique
+filepdf-705-cas.ann	nerveux	malaise
+filepdf-705-cas.ann	etatsosy	malaise
+filepdf-707-cas.ann	etatsosy	fatigue
+filepdf-707-cas.ann	infections	tuberculose latente
+filepdf-707-cas.ann	nerveux	migraines
+filepdf-707-cas.ann	chimiques	fumer
+filepdf-707-cas.ann	tumeur	kyste hépatique
+filepdf-707-cas.ann	digestif	kyste hépatique
+filepdf-72-cas.ann	cardiovasculaires	hypertension artérielle
+filepdf-72-cas.ann	nutritionnelles	diabète non insulino-dépendant
+filepdf-72-cas.ann	endocriniennes	diabète non insulino-dépendant
+filepdf-72-cas.ann	etatsosy	érythrose des extrémités et du visage
+filepdf-72-cas.ann	tumeur	processus tumoral gastrique
+filepdf-72-cas.ann	digestif	processus tumoral gastrique
+filepdf-72-cas.ann	ORL	sensation vertigineuse
+filepdf-72-cas.ann	nerveux	sensation vertigineuse
+filepdf-724-cas.ann	infections	sinusite aiguë à Streptococcus pneumoniae
+filepdf-724-cas.ann	ORL	sinusite aiguë à Streptococcus pneumoniae
+filepdf-724-cas.ann	respiratoire	sinusite aiguë à Streptococcus pneumoniae
+filepdf-724-cas.ann	cardiovasculaires	fibrillation auriculaire
+filepdf-724-cas.ann	etatsosy	fibrillation auriculaire
+filepdf-728-cas.ann	etatsosy	douleur chronique
+filepdf-728-cas.ann	digestif	reflux gastro-oesophagien
+filepdf-728-cas.ann	infections	onychomycose
+filepdf-728-cas.ann	homme	rétention urinaire
+filepdf-728-cas.ann	virales	virus de l’immunodéficience humaine (VIH)
+filepdf-728-cas.ann	cardiovasculaires	allongement de l’intervalle QTc
+filepdf-728-cas.ann	nutritionnelles	hypocalcémie
+filepdf-728-cas.ann	nerveux	Syncope
+filepdf-728-cas.ann	peau	onychomycose
+filepdf-728-cas.ann	ORL	vertiges occasionnels
+filepdf-73-1-cas.ann	homme	anurie
+filepdf-73-1-cas.ann	etatsosy	lombalgies gauches
+filepdf-73-1-cas.ann	infections	tuberculose uro-génitale
+filepdf-732-cas.ann	nerveux	céphalées frontales récidivantes
+filepdf-732-cas.ann	peau	acné vulgaire
+filepdf-732-cas.ann	oeil	diminution de la vision
+filepdf-732-cas.ann	cardiovasculaires	hypertension artérielle
+filepdf-732-cas.ann	respiratoire	asthme
+filepdf-732-cas.ann	immunitaire	asthme
+filepdf-732-cas.ann	chimiques	hypercholestérolémie secondaire à la prise d’isotrétinoïne
+filepdf-732-cas.ann	tumeur	tumeur
+filepdf-732-cas.ann	endocriniennes	masse surrénalienne à droite
+filepdf-732-cas.ann	etatsosy	diminution de la vision
+filepdf-732-cas.ann	nutritionnelles	hypercholestérolémie
+filepdf-737-1-cas.ann	hemopathies	anémie
+filepdf-737-1-cas.ann	etatsosy	fièvre
+filepdf-737-1-cas.ann	immunitaire	leucémie lymphoblastique aigüe (LAL)
+filepdf-737-1-cas.ann	tumeur	leucémie lymphoblastique aigüe (LAL)
+filepdf-737-1-cas.ann	respiratoire	toux depuis deux semaines avec exacerbation
+filepdf-737-1-cas.ann	infections	PPC
+filepdf-737-1-cas.ann	digestif	intolérance gastrique
+filepdf-743-cas.ann	peau	rash
+filepdf-743-cas.ann	cardiovasculaires	angine instable
+filepdf-743-cas.ann	immunitaire	réaction allergique au clopidogrel
+filepdf-743-cas.ann	chimiques	réaction allergique au clopidogrel
+filepdf-743-cas.ann	endocriniennes	Hypothyroïdie
+filepdf-743-cas.ann	nutritionnelles	Dyslipidémie
+filepdf-743-cas.ann	etatsosy	angine instable
+filepdf-747-cas.ann	cardiovasculaires	fibrillation auriculaire
+filepdf-747-cas.ann	tumeur	myélome multiple
+filepdf-747-cas.ann	osteomusculaires	douleurs osseuses métastatiques
+filepdf-747-cas.ann	etatsosy	douleurs osseuses métastatiques
+filepdf-747-cas.ann	chimiques	interaction médicamenteuse
+filepdf-747-cas.ann	immunitaire	myélome multiple
+filepdf-747-cas.ann	hemopathies	myélome multiple
+filepdf-751-cas.ann	hemopathies	microangiopathie thrombotique
+filepdf-751-cas.ann	homme	syndrome hémolytique urémique (SHU) atypique
+filepdf-751-cas.ann	peau	urticaire
+filepdf-751-cas.ann	respiratoire	épanchement pleural
+filepdf-751-cas.ann	immunitaire	réaction anaphylactoïde
+filepdf-751-cas.ann	etatsosy	œdème généralisé
+filepdf-751-cas.ann	cardiovasculaires	FC 153 battements/minute
+filepdf-752-cas.ann	cardiovasculaires	hypertension artérielle
+filepdf-752-cas.ann	etatsosy	ulcérations buccales très douloureuses
+filepdf-752-cas.ann	chimiques	incrimine le nicorandil
+filepdf-752-cas.ann	stomatognathique	ulcérations buccales
+filepdf-756-cas.ann	endocriniennes	hypothyroïdie
+filepdf-756-cas.ann	respiratoire	asthme
+filepdf-756-cas.ann	cardiovasculaires	thromboses veineuses profondes
+filepdf-756-cas.ann	osteomusculaires	arthrose au dos et aux mains
+filepdf-756-cas.ann	ORL	polypose nasale
+filepdf-756-cas.ann	immunitaire	allergique aux chats, aux graminées et à la poussière
+filepdf-756-cas.ann	etatsosy	dyspnée
+filepdf-756-cas.ann	nerveux	faiblesse
+filepdf-76-1-cas.ann	tumeur	adénocarcinome de prostate
+filepdf-76-1-cas.ann	homme	adénocarcinome de prostate
+filepdf-76-1-cas.ann	etatsosy	dysurie
+filepdf-76-1-cas.ann	infections	infections urinaires basses à répétition
+filepdf-76-1-cas.ann	peau	carcinome épidermoïde verruqueux mature de stade pT1 G1
+filepdf-765-cas.ann	respiratoire	PRR trachéal et laryngé
+filepdf-765-cas.ann	immunitaire	allergies aux chats et à la poussière
+filepdf-765-cas.ann	tumeur	papillomes
+filepdf-765-cas.ann	nerveux	perte de conscience
+filepdf-765-cas.ann	etatsosy	fatigue
+filepdf-765-cas.ann	virales	papillome humain de sous-type 11
+filepdf-765-cas.ann	nutritionnelles	diabète de type 1
+filepdf-765-cas.ann	endocriniennes	diabète de type 1
+filepdf-765-cas.ann	homme	lithiase rénale
+filepdf-765-cas.ann	infections	infection à streptocoque du groupe B
+filepdf-765-cas.ann	ORL	aphonie quasi complète
+filepdf-765-cas.ann	osteomusculaires	fatigue
+filepdf-765-cas.ann	digestif	douleurs à la déglutition
+filepdf-77-1-cas.ann	etatsosy	constipation
+filepdf-77-1-cas.ann	digestif	violentes coliques
+filepdf-77-1-cas.ann	homme	empierrement vésical
+filepdf-776-1-cas.ann	digestif	cirrhose éthylique décompensée
+filepdf-776-1-cas.ann	chimiques	cirrhose éthylique décompensée
+filepdf-776-1-cas.ann	etatsosy	ascite
+filepdf-776-1-cas.ann	peau	ictère cutanéomuqueux
+filepdf-776-1-cas.ann	osteomusculaires	ostéophytes paravertébraux au niveau lombaire et dorsal
+filepdf-776-1-cas.ann	genetique	alcaptonurie
+filepdf-776-1-cas.ann	nutritionnelles	alcaptonurie
+filepdf-776-2-cas.ann	osteomusculaires	arthrose dorsolombaire
+filepdf-776-2-cas.ann	etatsosy	ochronose
+filepdf-776-2-cas.ann	cardiovasculaires	souffle d’insuffisance aortique
+filepdf-776-2-cas.ann	blessures	rachis était douloureux et enraidi
+filepdf-776-2-cas.ann	nutritionnelles	urines ont bruni à l’air libre
+filepdf-776-2-cas.ann	genetique	urines ont bruni à l’air libre
+filepdf-776-5-cas.ann	osteomusculaires	arthropathie des deux genoux
+filepdf-776-5-cas.ann	nerveux	défi-cit moteur des deux membres inférieurs
+filepdf-776-5-cas.ann	etatsosy	steppage
+filepdf-776-5-cas.ann	genetique	tophus
+filepdf-776-5-cas.ann	nutritionnelles	tophus
+filepdf-776-5-cas.ann	homme	insuffisance rénale
+filepdf-776-5-cas.ann	blessures	raideur sévère du rachis cervicodorsolombaire
+filepdf-776-5-cas.ann	peau	peau de son corps devient toute noire
+filepdf-777-cas.ann	etatsosy	dilatation de l’aorte ascendante
+filepdf-777-cas.ann	cardiovasculaires	unicuspidie aortique
+filepdf-781-cas.ann	etatsosy	vomissements
+filepdf-781-cas.ann	genetique	aganglionnie
+filepdf-781-cas.ann	endocriniennes	aganglionnie
+filepdf-782-cas.ann	etatsosy	hypertension gravidique
+filepdf-782-cas.ann	peau	prurit sévère sur le tronc, les membres puis le corps entier
+filepdf-782-cas.ann	femme	mort fœtale intra utérine
+filepdf-782-cas.ann	cardiovasculaires	tension artérielle à 160/100mmHg
+filepdf-783-cas.ann	femme	insuffisance rénale chronique terminale
+filepdf-783-cas.ann	etatsosy	douleur thoracique
+filepdf-783-cas.ann	respiratoire	dyspnée
+filepdf-791-cas.ann	tumeur	kyste pré sacré
+filepdf-791-cas.ann	etatsosy	dyschésie
+filepdf-791-cas.ann	respiratoire	toux
+filepdf-791-cas.ann	infections	suppuration récidivante de la région coccygienne
+filepdf-791-cas.ann	peau	kyste épidermoide bénin
+filepdf-798-5-cas.ann	respiratoire	détresse respiratoire fébrile
+filepdf-798-5-cas.ann	nerveux	convulsions fébriles
+filepdf-798-5-cas.ann	etatsosy	parésie du membre inférieur gauche
+filepdf-798-5-cas.ann	infections	tuberculose pulmonaire
+filepdf-798-5-cas.ann	hemopathies	adénopathies
+filepdf-798-5-cas.ann	immunitaire	agammaglobulinémie avec des IgG < 0,44 g/l
+filepdf-798-5-cas.ann	genetique	détresse respiratoire fébrile
+filepdf-799-cas.ann	homme	hématurie caillotante totale, récidivante
+filepdf-799-cas.ann	etatsosy	brûlures mictionnelles
+filepdf-799-cas.ann	tumeur	tumeur sur la paroi antérieure et du dôme vésical
+filepdf-800-3-cas.ann	etatsosy	douleurs dorsolombaires et costales
+filepdf-800-3-cas.ann	hemopathies	anémie normochrome normocytaire
+filepdf-800-3-cas.ann	immunitaire	hypogammaglubilinémie
+filepdf-800-3-cas.ann	osteomusculaires	déminéralisation diffuse
+filepdf-800-3-cas.ann	nutritionnelles	déminéralisation diffuse
+filepdf-800-3-cas.ann	tumeur	leucémie à plasmocytes non sécrétant
+filepdf-801-1-cas.ann	blessures	tassement de T3
+filepdf-801-1-cas.ann	osteomusculaires	tassement de T3
+filepdf-801-1-cas.ann	nerveux	compression de la moelle épinière
+filepdf-804-cas.ann	endocriniennes	diabétique
+filepdf-804-cas.ann	nutritionnelles	diabétique
+filepdf-804-cas.ann	femme	métrorragies minimes post coïtale
+filepdf-804-cas.ann	etatsosy	métrorragies minimes post coïtale
+filepdf-804-cas.ann	tumeur	tumeur de la lèvre postérieure du col
+filepdf-804-cas.ann	respiratoire	dyspnée à l'effort
+filepdf-804-cas.ann	digestif	métastases pulmonaires et hépatiques
+filepdf-804-cas.ann	immunitaire	diabétique
+filepdf-806-cas.ann	hemopathies	légère hyperleucocytose
+filepdf-806-cas.ann	homme	insuffisance rénale
+filepdf-806-cas.ann	etatsosy	douleurs abdominales diffuses
+filepdf-806-cas.ann	infections	tuberculose péritonéale
+filepdf-806-cas.ann	digestif	tuberculose péritonéale
+filepdf-806-cas.ann	nutritionnelles	hypokaliemie
+filepdf-810-2-cas.ann	etatsosy	douleurs périombilicale intenses
+filepdf-810-2-cas.ann	hemopathies	anémie
+filepdf-810-2-cas.ann	digestif	gastrite congestive
+filepdf-810-2-cas.ann	tumeur	tumeur
+filepdf-810-2-cas.ann	nutritionnelles	maladie cœliaque
+filepdf-819-cas.ann	etatsosy	douleur thoracique angineuse constrictive, intense et prolongée
+filepdf-819-cas.ann	chimiques	tabagisme chronique
+filepdf-819-cas.ann	stomatognathique	aphtose buccale récidivante
+filepdf-819-cas.ann	cardiovasculaires	thrombophlébite récidivante
+filepdf-819-cas.ann	oeil	maladie de Behçet
+filepdf-819-cas.ann	genetique	maladie de Behçet
+filepdf-819-cas.ann	peau	maladie de Behçet
+filepdf-821-cas.ann	tumeur	maladie d’hodgkin
+filepdf-821-cas.ann	hemopathies	maladie d’hodgkin
+filepdf-821-cas.ann	immunitaire	maladie d’hodgkin
+filepdf-821-cas.ann	peau	psoriasis d’abord dermique puis arthropathique
+filepdf-821-cas.ann	osteomusculaires	psoriasis d’abord dermique puis arthropathique
+filepdf-821-cas.ann	etatsosy	diarrhée chronique
+filepdf-821-cas.ann	digestif	fissure anale polaire antérieure
+filepdf-821-cas.ann	infections	oligo-arthrite
+filepdf-825-cas.ann	etatsosy	douleur abdominale
+filepdf-825-cas.ann	cardiovasculaires	thrombose
+filepdf-825-cas.ann	digestif	foie dysmorphique
+filepdf-825-cas.ann	hemopathies	anémie normochrome normocytaire à 10g /dl arégénérative
+filepdf-825-cas.ann	nutritionnelles	hypocalcémie
+filepdf-825-cas.ann	osteomusculaires	hippocratisme digital
+filepdf-826-1-cas.ann	etatsosy	colique néphrétique gauche
+filepdf-826-1-cas.ann	homme	rein polylithiasique détruit
+filepdf-826-1-cas.ann	osteomusculaires	genuvalgum
+filepdf-826-1-cas.ann	blessures	fracture des deux os de la jambe
+filepdf-826-1-cas.ann	tumeur	adénome parathyroïdien droit supérieur
+filepdf-826-1-cas.ann	endocriniennes	adénome parathyroïdien droit supérieur
+filepdf-828-cas.ann	nerveux	céphalées
+filepdf-828-cas.ann	oeil	BAV bilatérale
+filepdf-828-cas.ann	tumeur	angiome rétinien typique
+filepdf-828-cas.ann	femme	tumeur rénale gauche
+filepdf-830-cas.ann	tumeur	leiomyosarcome rétrorectal
+filepdf-830-cas.ann	digestif	leiomyosarcome rétrorectal
+filepdf-830-cas.ann	etatsosy	douleurs pelviennes paroxystiques
+filepdf-830-cas.ann	homme	pollakiurie
+filepdf-830-cas.ann	chimiques	tabagisme chronique estimé à 25 PA
+filepdf-833-cas.ann	etatsosy	douleurs lombaires droites
+filepdf-833-cas.ann	tumeur	masse tumorale
+filepdf-838-cas.ann	oeil	exophtalmie
+filepdf-838-cas.ann	tumeur	neurofibromatose de Von Recklinghausen
+filepdf-838-cas.ann	nerveux	neurofibromatose de Von Recklinghausen
+filepdf-838-cas.ann	genetique	neurofibromatose de Von Recklinghausen
+filepdf-838-cas.ann	cardiovasculaires	anévrysme cérébral
+filepdf-838-cas.ann	etatsosy	hernie du lobe temporal gauche
+filepdf-839-cas.ann	parasitaires	kyste hydatique
+filepdf-839-cas.ann	tumeur	nodule
+filepdf-839-cas.ann	peau	tuméfaction du sein droit
+filepdf-839-cas.ann	etatsosy	énorme image kystique mammaire droite
+filepdf-84-3-cas.ann	homme	énurésie
+filepdf-84-3-cas.ann	etatsosy	brûlures mictionnelles
+filepdf-84-3-cas.ann	oeil	baisse de l’acuité visuelle
+filepdf-84-3-cas.ann	infections	entérocoque
+filepdf-84-3-cas.ann	nerveux	baisse de l’acuité visuelle
+filepdf-840-2-cas.ann	chimiques	tabagique chronique
+filepdf-840-2-cas.ann	nutritionnelles	diabétique
+filepdf-840-2-cas.ann	endocriniennes	diabétique
+filepdf-840-2-cas.ann	cardiovasculaires	hypertendu
+filepdf-840-2-cas.ann	tumeur	adénome de prostate
+filepdf-840-2-cas.ann	homme	adénome de prostate
+filepdf-840-2-cas.ann	etatsosy	douleurs pelviennes
+filepdf-840-2-cas.ann	osteomusculaires	ostéolyse sacrée
+filepdf-840-2-cas.ann	immunitaire	diabétique
+filepdf-849-cas.ann	digestif	cirrhose idiopathique
+filepdf-849-cas.ann	etatsosy	foie dysmorphique
+filepdf-849-cas.ann	femme	mort fœtale in utero
+filepdf-854-cas.ann	etatsosy	douleur basi-thoracique droite
+filepdf-854-cas.ann	tumeur	tumeur
+filepdf-854-cas.ann	respiratoire	important épanchement pleural multicloisonné
+filepdf-854-cas.ann	peau	métastases parenchymateuses
+filepdf-856-cas.ann	hemopathies	anémie sévère
+filepdf-856-cas.ann	etatsosy	dyspnée d’effort stade 2
+filepdf-856-cas.ann	chimiques	tabagique
+filepdf-856-cas.ann	digestif	moelenas
+filepdf-856-cas.ann	respiratoire	dyspnée d’effort stade 2
+filepdf-856-cas.ann	ORL	vertiges
+filepdf-856-cas.ann	nerveux	vertiges
+filepdf-856-cas.ann	tumeur	hémangiome caverneux du grêle
+filepdf-856-cas.ann	cardiovasculaires	arrêt cardiaque
+filepdf-86-4-cas.ann	etatsosy	lombalgies droites lancinantes
+filepdf-86-4-cas.ann	tumeur	formation tumorale hétérogène polaire supérieure droite
+filepdf-86-4-cas.ann	femme	adénocarcinome rénal
+filepdf-863-cas.ann	hemopathies	anémie hypochrome microcytaire
+filepdf-863-cas.ann	parasitaires	accès palustre
+filepdf-863-cas.ann	femme	Fausse couche précoce
+filepdf-863-cas.ann	etatsosy	fébrile à 38°,5 C
+filepdf-87-cas.ann	homme	troubles mictionnels obstructifs isolés
+filepdf-87-cas.ann	nutritionnelles	diabète non insulino-dépendant
+filepdf-87-cas.ann	endocriniennes	diabète non insulino-dépendant
+filepdf-87-cas.ann	respiratoire	pneumoconiose mixte d’exposition à l’amiante, à la silice et au charbon
+filepdf-87-cas.ann	chimiques	pneumoconiose mixte d’exposition à l’amiante, à la silice et au charbon
+filepdf-87-cas.ann	tumeur	tumeur tissulaire de 3 cm sur la convexité du rein gauche
+filepdf-87-cas.ann	infections	infection
+filepdf-87-cas.ann	etatsosy	lésions
+filepdf-875-cas.ann	virales	sérologie VIH positive
+filepdf-875-cas.ann	immunitaire	sérologie VIH positive
+filepdf-91-1-cas.ann	homme	deux uretères dilatés
+filepdf-91-1-cas.ann	infections	infections urinaires récidivantes
+filepdf-91-1-cas.ann	genetique	double vessie
+filepdf-91-3-cas.ann	femme	dilatation pyélo-urétérale gauche
+filepdf-91-3-cas.ann	etatsosy	dilatation
+filepdf-91-3-cas.ann	infections	épisodes infectieux mal contrôlés
+filepdf-94-cas.ann	tumeur	tumeur
+filepdf-94-cas.ann	etatsosy	hématurie macroscopique spontanée, indolore
+filepdf-94-cas.ann	homme	hématurie macroscopique spontanée, indolore
+filepdf-94-cas.ann	respiratoire	carcinome bronchique
+filepdf-94-cas.ann	hemopathies	adénopathie para-aortique
+filepdf-98-2-cas.ann	hemopathies	anémie ferriprive
+filepdf-98-2-cas.ann	tumeur	formation tumorale du dôme de la vessie
+filepdf-98-2-cas.ann	etatsosy	hématurie
+filepdf-98-2-cas.ann	nutritionnelles	anémie ferriprive
+filepdf-98-2-cas.ann	homme	formation tumorale du dôme de la vessie
+filepdf-98-2-cas.ann	infections	bilharziose urinaire
+filepdf-98-2-cas.ann	parasitaires	bilharziose urinaire

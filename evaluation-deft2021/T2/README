@@ -1,0 +1,39 @@
+###
+# DEFT 2021 - T2 Evaluation de réponses d'étudiants à partir de la correction enseignant
+
+Le script d'évaluation prend en entrée deux arguments :
+- le fichier des réponses d'étudiants avec les notes de référence
+- le fichier des notes prédites par le système
+
+Il renvoie une évaluation globale (précision), suivie de la liste des
+questions ayant obtenu une précision >= 0,7 (questions jugées
+"faciles"), puis la liste des étudiants pour lesquels le système a eu
+du mal à prédire les bonnes notes (précision <= 0,45).
+
+Usage : perl evaluation-T2.pl référence hypothèse
+
+-----
+Exemple sur une baseline :
+
+perl evaluation-T2.pl trainT2-R.tab sortie-baseline.txt
+
+Il y a 1847 évaluations correctes et 1973 évaluations incorrectes
+Soit une précision de 0.484
+
+Liste des questions faciles :
+- Question 1003	P=0.882
+- Question 1018	P=0.882
+- Question 1027	P=0.706
+- Question 2017	P=0.931
+- Question 2020	P=0.853
+- Question 2023	P=0.828
+- Question 2044	P=0.819
+
+Liste des étudiants pour lesquels il est difficile de corriger :
+- Etudiant student122	6 réponses correctement évaluées
+- Etudiant student32	9 réponses correctement évaluées
+- Etudiant student38	8 réponses correctement évaluées
+- Etudiant student42	8 réponses correctement évaluées
+- Etudiant student53	9 réponses correctement évaluées
+- Etudiant student71	9 réponses correctement évaluées
+- Etudiant student94	8 réponses correctement évaluées

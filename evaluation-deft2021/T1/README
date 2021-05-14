@@ -1,0 +1,49 @@
+###
+# DEFT 2021 - T1 Cas cliniques
+
+Le script d'évaluation prend en entrée deux arguments :
+- la liste des classes de référence "classes-train-v2.txt"
+- la liste des classes produites par le système
+
+Il renvoie une évaluation globale par cas clinique (précision), puis
+une évaluation par chapitre du MeSH (rappel, précision, F-mesure), et
+enfin une évaluation globale.
+
+Usage : perl evaluation-cas-clinique.pl référence hypothèse
+
+-----
+Exemple sur une baseline :
+
+perl evaluation-cas-clinique.pl classes-train-v2.txt sortie-baseline.txt
+
+EVALUATION PAR FICHIER
+- filehtml-24-cas.ann ......	P=0.625
+- filehtml-29-cas.ann ......	P=0.714
+- filepdf-100-cas.ann ......	P=0.667
+- filepdf-101-cas.ann ......	P=0.750
+  [...]
+- filepdf-94-cas.ann .......	P=0.600
+- filepdf-98-2-cas.ann .....	P=0.143
+
+EVALUATION PAR CHAPITRE
+- blessures ...........	R=0.095	P=1.000	F=0.174
+- cardiovasculaires ...	R=0.538	P=0.447	F=0.488
+- chimiques ...........	R=0.311	P=0.737	F=0.438
+- digestif ............	R=0.806	P=0.468	F=0.592
+- endocriniennes ......	R=0.273	P=0.600	F=0.375
+- etatsosy ............	R=0.603	P=0.966	F=0.742
+- femme ...............	R=0.714	P=0.758	F=0.735
+- genetique ...........	R=0.263	P=1.000	F=0.417
+- hemopathies .........	R=0.206	P=1.000	F=0.341
+- homme ...............	R=0.574	P=0.761	F=0.654
+- immunitaire .........	R=0.400	P=0.500	F=0.444
+- infections ..........	R=0.182	P=1.000	F=0.308
+- nerveux .............	R=0.463	P=0.760	F=0.576
+- nutritionnelles .....	R=0.172	P=0.500	F=0.256
+- oeil ................	R=0.364	P=0.800	F=0.500
+- osteomusculaires ....	R=0.286	P=0.750	F=0.414
+- peau ................	R=0.161	P=1.000	F=0.278
+- respiratoire ........	R=0.593	P=0.485	F=0.533
+- tumeur ..............	R=0.637	P=0.944	F=0.761
+- virales .............	R=0.500	P=0.571	F=0.533
+EVALUATION GLOBALE ....	R=0.468	P=0.723	F=0.568

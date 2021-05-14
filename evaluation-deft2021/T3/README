@@ -1,0 +1,77 @@
+###
+# DEFT 2021 - T3 Evaluation de réponses d'étudiants à partir de réponses déjà évaluées
+
+Le premier script d'évaluation prend en entrée trois arguments :
+- la liste des réponses traitées par le système (avec lignes A_COMPLETER)
+- la liste des notes de référence
+- la liste des notes prédites par le système
+
+Il renvoie une évaluation globale (précision) calculée uniquement sur
+les lignes A_COMPLETER (les lignes des réponses d'étudiants déjà
+évaluées servant d'amorces pour le système sont exclues de
+l'évaluation), puis une évaluation par question (précision), ainsi
+qu'une indication des notes (issues de la référence) pour lesquelles
+le système n'a pas été en mesure de produire au moins une prédiction
+correcte (il s'agit donc des notes jugées complexes à prédire).
+
+Afin de faciliter la comparaison pour un humain, le script produit
+également un fichier log (nommé à partir du fichier de l'hypothèse),
+sur la base du corpus traité (sur les seules lignes A_COMPLETER), en
+ajoutant trois colonnes :
+- correct/erreur
+- note de référence
+- note de l'hypothèse
+
+Usage : perl evaluation-T3.pl corpus référence hypothèse
+
+
+Le deuxième script d'évaluation prend en entrée deux arguments :
+- la liste des notes de référence
+- la liste des notes prédites par le système
+
+Il renvoie la corrélation de Pearson (après que la librairie eut été
+installée : sudo cpan install Statistics::Basic::Correlation)
+
+Usage : perl evaluation-T3corr.pl référence hypothèse
+
+-----
+Exemple sur une baseline :
+
+perl evaluation-T3.pl trainT3-R-10.tab trainT3-R.tab sortie-baseline.txt
+
+Evaluation globale :	P=0.379 	(260 corrects, 426 incorrects)
+- Question 2011 :	P=0.183 	(19 corrects, 85 incorrects)
+- Question 2013 :	P=0.558 	(58 corrects, 46 incorrects)
+- Question 5002 :	P=0.256 	(11 corrects, 32 incorrects)
+- Question 5003 :	P=0.312 	(15 corrects, 33 incorrects)
+- Question 5004 :	P=0.444 	(16 corrects, 20 incorrects)
+- Question 5006 :	P=0.556 	(30 corrects, 24 incorrects)
+- Question 5007 :	P=0.215 	(14 corrects, 51 incorrects)
+- Question 5008 :	P=0.269 	(18 corrects, 49 incorrects)
+- Question 5010 :	P=0.697 	(46 corrects, 20 incorrects)
+- Question 5013 :	P=0.458 	(22 corrects, 26 incorrects)
+- Question 5014 :	P=0.216 	(11 corrects, 40 incorrects)
+Le système n'a pas été capable de prédire correctement les notes suivantes : 0.1, 0.16, 0.33, 0.37, 0.4, 0.62, 0.7, 0.75, 0.76, 0.8, 0.87, 0.9
+
+
+Extrait du contenu du fichier sortie-baseline.txt.log produit par le
+script (erreur/correct, référence, hypothèse) :
+
+2011    A_COMPLETER     student10       [réponse étudiant]    erreur  1       0.5
+2011    A_COMPLETER     student101      [réponse étudiant]    erreur  1       0.5
+2011    A_COMPLETER     student102      [réponse étudiant]    erreur  1       0.5
+2011    A_COMPLETER     student103      [réponse étudiant]    erreur  1       0.5
+2011    A_COMPLETER     student104      [réponse étudiant]    erreur  0       1
+2011    A_COMPLETER     student105      [réponse étudiant]    erreur  1       0.5
+2011    A_COMPLETER     student106      [réponse étudiant]    erreur  1       0.5
+2011    A_COMPLETER     student107      [réponse étudiant]    correct 1       1
+
+
+perl evaluation-T3corr.pl trainT3-R.tab sortie-baseline.txt
+
+769 ~ 769
+ 768 ~ 768 
+0,43
+1
+
+=> corrélation de 0,43
