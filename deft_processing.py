@@ -36,7 +36,8 @@ xo_write_json_fromdf("q.json", df_question)
 # ok
 df_reponse = pd.read_csv(path_r, sep="\t", header=None)
 df_reponse.columns = ['numeroQ', 'noteObtenue', 'nomE', 'texteRep']
-df_reponse.texteRep = df_reponse.texteRep.apply(lambda x: x.replace("\\n", "").strip()).apply(html_cleaning)
+# df_reponse.texteRep = df_reponse.texteRep.apply(lambda x: x.replace("\\n", "").strip()).apply(html_cleaning)
+df_reponse.texteRep = df_reponse.texteRep.apply(lambda x: x.replace("\\n", "").strip())
 df_reponse.texteRep
 # df_reponse.texteRep.apply(html_cleaning).apply(lambda x:x.strip().replace("\\n",""))
 
